@@ -1,0 +1,6 @@
+{
+  "name": "LocalTube",
+  "description": "Private 100% offline local video player with modern YouTube Dark ergonomics, single-column feed, shorts viewer, folder channels, playlists, and ExoPlayer controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

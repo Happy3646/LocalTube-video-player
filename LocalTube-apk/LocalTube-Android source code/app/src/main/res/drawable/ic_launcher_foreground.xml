@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="27"
+        android:translateY="27"
+        android:scaleX="1.125"
+        android:scaleY="1.125">
+        <!-- Folder shape with tab in YouTube Red #FF0000 -->
+        <path
+            android:fillColor="#FF0000"
+            android:pathData="M6,10 C4.34,10 3,11.34 3,13 L3,35 C3,37.21 4.79,39 7,39 L41,39 C43.21,39 45,37.21 45,35 L45,17 C45,14.79 43.21,13 41,13 L23,13 L19.41,9.41 C18.66,8.66 17.65,8.24 16.59,8.24 L7,8.24 C4.79,8.24 3,10.03 3,12.24 Z" />
+        
+        <!-- White Play Triangle Centered Inside Folder -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,18.5 L20,33.5 C20,34.4 21,34.95 21.8,34.48 L33.2,26.98 C33.95,26.48 33.95,25.52 33.2,25.02 L21.8,17.52 C21,17.05 20,17.6 20,18.5 Z" />
+    </group>
+</vector>
